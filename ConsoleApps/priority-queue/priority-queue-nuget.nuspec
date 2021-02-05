@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/chinmaykelkar9141/Dotnet/tree/main/ConsoleApps/priority-queue</projectUrl>
+    <iconUrl>test</iconUrl>
+    <description>$description$</description>
+    <releaseNotes>Initial package</releaseNotes>
+    <copyright>@ChinmayKelkar</copyright>
+    <tags>priority-queue</tags>
+  </metadata>
+</package>

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <RootNamespace>priority_queue</RootNamespace>
+        <AssemblyName>priority-queue</AssemblyName>
+        <PackageId>priority-queue</PackageId>
+        <Title>Priority Queue</Title>
+        <Authors>Chinmay Kelkar</Authors>
+        <Description>An attempt to create a priprity queue using minheap</Description>
+        <Company>priority-queue</Company>
+        <Product>priority-queue</Product>
+        <PackageVersion>1.0.1</PackageVersion>
+    </PropertyGroup>
+
+</Project>
